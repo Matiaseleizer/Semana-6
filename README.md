@@ -44,7 +44,7 @@ https://github.com/Matiaseleizer/LlanquihueTour.git
 
 ---
 
-**Repositorio GitHub:** \[]
+**Repositorio GitHub:** \[https://github.com/Matiaseleizer/Semana-6.git]
 **Fecha de entrega:** \[27/06/2026]
 
 ---
